@@ -1,4 +1,4 @@
-<h1 align="center">👋 Lemxy / Middle+ Full-Stack  Desktop/mobile Developer</h1>
+<h1 align="center">👋 Lemxy / Middle Full-Stack Developer</h1>
 ###
 <p align="center">
   Middle Full-Stack Developer specializing in Rust, React и Node.js. Также пишу на Laravel / PHP.
@@ -45,5 +45,5 @@
 </p>
 ###
 <p align="center">
-  <img src="./pong.svg" alt="eternal pong game" width="800" />
+  <img src="https://raw.githubusercontent.com/lemxy/lemxy/main/pong.svg" alt="eternal pong game" width="800" />
 </p>
